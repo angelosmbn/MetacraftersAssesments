@@ -45,6 +45,8 @@ function getTotalSupply() {
 // call your functions below this line
 
 mintNFT("Limits", "Blue", "T-shirt", "Keyboard");
-mintNFT("Nath", "Pink", "Dress", "Gold Chain");
+mintNFT("Apa", "Brown", "T-shirt", "Gold Chain");
+mintNFT("Nath", "Pink", "Dress", "Gold Necklace");
+mintNFT("Yuki", "Brown", "Dress", "Colar");
 listNFTs();
 console.log("\nTotal Minted: " + getTotalSupply());
